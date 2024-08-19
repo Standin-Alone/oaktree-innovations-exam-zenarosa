@@ -18,7 +18,7 @@ Server Project Instruction:
 3. pip install flask
 4. pip install flask-cors
 5. pip install flask-jwt-extended
-6. py app.py
+6. python app.py
 
 Login
 Username: admin
