@@ -1,7 +1,8 @@
 OakTree Innovations Technical Exam
 Author: John Edcel Zenarosa
 
-
+How To Clone:
+git clone https://github.com/Standin-Alone/oaktree-innovations-exam-zenarosa.git
 
 Client Project Instruction:
 1. open terminal.
