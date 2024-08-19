@@ -8,6 +8,7 @@ Client Project Instruction:
 2. Go to project client directory
 3. npm install
 4. npm run dev
+5. http://localhost:3000/login
 
 
 Server Project Instruction:
