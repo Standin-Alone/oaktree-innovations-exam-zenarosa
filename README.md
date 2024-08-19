@@ -14,8 +14,11 @@ Client Project Instruction:
 
 Server Project Instruction:
 1. open terminal 
-2. Go to project server directory *cd server   
-4. py app.py
+2. Go to project server directory *cd server
+3. pip install flask
+4. pip install flask-cors
+5. pip install flask-jwt-extended
+6. py app.py
 
 Login
 Username: admin
