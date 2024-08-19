@@ -6,7 +6,8 @@ Author: John Edcel Zenarosa
 Client Project Instruction:
 1. open terminal.
 2. Go to project client directory
-3. npm run dev
+3. npm install
+4. npm run dev
 
 
 Server Project Instruction:
