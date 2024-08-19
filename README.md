@@ -17,5 +17,8 @@ Server Project Instruction:
 2. Go to project server directory
 3. py app.py
 
+Login
+Username: admin
+Password: admin
 
 
